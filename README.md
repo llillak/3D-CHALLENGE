@@ -9,7 +9,14 @@ It's my challenge to making random 3d project
 - create project in 3d
 - show the world your point of view
 
-## LIST OF IDEAS
+### LIST OF IDEAS
+
+##### LEGEND 
+
+~~done ideas~~
+*in progres ideas*
+
+
 
 1. secret agents
 2. character from fairy tale or cartoon
