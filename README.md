@@ -13,8 +13,9 @@ It's my challenge to making random 3d project
 
 ##### LEGEND 
 
-~~done ideas~~
-*in progres ideas*
+💯 ~~done ideas~~
+
+🕑*in progres ideas*
 
 
 
