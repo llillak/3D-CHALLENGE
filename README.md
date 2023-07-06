@@ -1,5 +1,5 @@
 # 3D-CHALLENGE
-It's my challenge to making random 3d project
+It's my challenge to makE random 3d project
 
 ## the idea of the challenge
 
