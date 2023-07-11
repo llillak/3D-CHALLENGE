@@ -28,7 +28,7 @@ It's my challenge to makE random 3d project
 8. car
 9. well
 10. character animation
-11. object animation
+11. ~~object animation~~
 12. stone
 13. skull and darkness
 14. cyberpunk city
@@ -44,7 +44,7 @@ It's my challenge to makE random 3d project
 24. sword
 25. gun
 26. machine gun or rifle
-27. console
+27. ~~console~~
 28. woman
 29. man
 30. landscape
@@ -76,3 +76,10 @@ It's my challenge to makE random 3d project
 56. micro planets
 57. utopia
 58. masks
+59. jar
+60. katana
+61. duck
+62. frying pan
+63. cactus juice
+64. VR googles
+65. desk fan
