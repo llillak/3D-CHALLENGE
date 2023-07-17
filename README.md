@@ -19,7 +19,7 @@ It's my challenge to makE random 3d project
 
 
 1. secret agents
-2. character from fairy tale or cartoon
+2. ~~character from fairy tale or cartoon~~
 3. animal
 4. plants
 5. device
